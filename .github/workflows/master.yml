@@ -1,4 +1,4 @@
-name: Progress Bar CI
+name: Profile CI
 
 on:
   workflow_dispatch:
@@ -7,9 +7,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js
@@ -20,7 +18,7 @@ jobs:
       run: node index.js > README.md
     - name: Commit change & Push
       run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'tang97155+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'robot'
+          git config user.email 'tang97155@gmail.com'
           git commit -am "bot: update README.md automatically"
           git push
