@@ -36,8 +36,8 @@
 </p>
 
 <p align = "center">
-  <img width="50%" src = "https://github-readme-stats.vercel.app/api?username=unknowIfGuestInDream&count_private=true&show_icons=true&theme=tokyonight">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=unknowIfGuestInDream&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0&date_format=[Y.]n.j" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=unknowIfGuestInDream&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unknowIfGuestInDream&show_icons=true&locale=en&layout=compact&theme=tokyonight&date_format=[Y.]n.j" />
 </p>
 
 <p align = "center">
