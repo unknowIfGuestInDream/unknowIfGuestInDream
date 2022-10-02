@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Japanese
 - 🤔 My blog 👉 https://www.tlcsdm.com 
 - 📫 How to reach me: tang97155@gmail.com
-- ⏰ Updated on 2022/10/02 12:24:19
+- ⏰ Updated on 2022/10/02 15:55:51
 
 ---
 
@@ -50,3 +50,4 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=unknowIfGuestInDream&theme=redical">
 </p>
+
