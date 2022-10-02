@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Japanese
 - 🤔 My blog 👉 https://www.tlcsdm.com 
 - 📫 How to reach me: tang97155@gmail.com
+- ⏰ Updated on 2022/10/02 12:24:19
+
+---
 
 <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=OpenJDK"/>
