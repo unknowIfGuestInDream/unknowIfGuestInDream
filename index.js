@@ -2,7 +2,17 @@ function isZero(x) {
   return x < 10 ? '0' + x : x
 }
 
-function formatDate(time) {
+function getLocalTime(i) { 
+  if (typeof i !== 'number') return; 
+  var d = new Date(); 
+  var len = d.getTime();
+  var offset = d.getTimezoneOffset() * 60000;
+  var utcTime = len+offset;
+  return new Date(utcTime + 3600000 * i)
+}
+
+function formatDate() {
+  const time = getLocalTime(8);
   const y = time.getFullYear();
   const m = time.getMonth() + 1;
   let d = time.getDate();
@@ -20,7 +30,7 @@ const readme = `\
 - 🌱 I’m currently learning Japanese
 - 🤔 My blog 👉 https://www.tlcsdm.com 
 - 📫 How to reach me: tang97155@gmail.com
-- ⏰ Updated on ${formatDate(new Date())}
+- ⏰ Updated on ${formatDate()}
 
 ---
 
