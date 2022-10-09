@@ -24,11 +24,11 @@ function formatDate() {
 
 const readme = `\
 ### Hi there 👋
-### I'm Tang Liang. 
+### I'm unknowIfGuestInDream. 
 
 - 🔭 I’m currently working on Java development
 - 🌱 I’m currently learning Japanese
-- 🤔 My blog 👉 https://www.tlcsdm.com 
+- 🤔 My blog 👉 https://blog.tlcsdm.com 
 - 📫 How to reach me: tang97155@gmail.com
 - ⏰ Updated on ${formatDate()}
 
