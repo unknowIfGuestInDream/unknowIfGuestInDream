@@ -73,7 +73,7 @@ const readme = `\
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=unknowIfGuestInDream&theme=redical">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=498EFF&width=530&lines=Whatever+is+worth+doing+is+worth+doing+well" alt="Typing SVG" />
 </p>
 \
 `
