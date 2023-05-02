@@ -64,12 +64,14 @@ const readme = `\
 </p>
 
 <p align = "center">
-  <img width="49%" src = "https://github-readme-stats.vercel.app/api?username=unknowIfGuestInDream&count_private=true&show_icons=true&theme=tokyonight">
+  <img width="49%" src = "https://github-readme-stats.vercel.app/api?username=unknowIfGuestInDream&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unknowIfGuestInDream&show_icons=true&locale=en&layout=compact&theme=tokyonight&date_format=[Y.]n.j" />
 </p>
 
 <p align = "center">
-
+  <img width="49%" src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unknowIfGuestInDream&theme=ocean_dark" />
+  <img width="49%" src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unknowIfGuestInDream&theme=ocean_dark" />
+  <img width="98%" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknowIfGuestInDream&theme=ocean_dark" />
 </p>
 
 <p align = "center">
