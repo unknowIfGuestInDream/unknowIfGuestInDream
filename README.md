@@ -44,8 +44,8 @@
 </p>
 
 <p align = "center">
-  <img width="49%" src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unknowIfGuestInDream&theme=ocean_dark" />
-  <img width="49%" src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unknowIfGuestInDream&theme=ocean_dark" />
+  <img width="49%" src = "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unknowIfGuestInDream&theme=ocean_dark&exclude=javascript,scss" />
+  <img width="49%" src = "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unknowIfGuestInDream&theme=ocean_dark&exclude=javascript,scss" />
   <img width="98%" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknowIfGuestInDream&theme=ocean_dark" />
 </p>
 
