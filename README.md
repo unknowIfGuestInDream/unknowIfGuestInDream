@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Japanese
 - 🤔 My blog 👉 https://blog.tlcsdm.com 
 - 📫 How to reach me: liang.tang.cx@gmail.com
-- ⏰ Updated on 2023/05/02 08:37:42
+- ⏰ Updated on 2023/05/02 14:09:44
 
 ---
 
@@ -52,3 +52,4 @@
 <p align = "center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=498EFF&width=530&lines=Whatever+is+worth+doing+is+worth+doing+well" alt="Typing SVG" />
 </p>
+
