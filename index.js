@@ -43,7 +43,7 @@ const readme = `\
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-SpringBoot-yellowgreen?style=flat-square&logo=Spring Boot"/>
+<img src="https://img.shields.io/badge/-SpringBoot-yellowgreen?style=flat-square&logo=Spring%20Boot"/>
 <img src="https://img.shields.io/badge/-SpringCloud-yellowgreen?style=flat-square&logo=Spring"/>
 <img src="https://img.shields.io/badge/-Oracle-important?style=flat-square&logo=Oracle"/>
 <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql"/>
@@ -57,7 +57,7 @@ const readme = `\
 <p align="center">
 <img src="https://img.shields.io/badge/-Idea-black?style=plastic&logo=intellijidea"/>
 <img src="https://img.shields.io/badge/-Webstorm-red?style=plastic&logo=webstorm"/>
-<img src="https://img.shields.io/badge/-Eclipse-orange?style=flat-square&logo=Eclipse IDE"/>
+<img src="https://img.shields.io/badge/-Eclipse-orange?style=flat-square&logo=Eclipse%20IDE"/>
 <img src="https://img.shields.io/badge/-DataGrip-green?style=flat-square&logo=datagrip"/>
 <img src="https://img.shields.io/badge/-GoLand-black?style=flat-square&logo=goland"/>
 <img src="https://img.shields.io/badge/-PyCharm-yellowgreen?style=flat-square&logo=PyCharm"/>
