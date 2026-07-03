@@ -28,7 +28,7 @@ const readme = `\
 
 - 🔭 I’m currently working on Java development
 - 🌱 I’m currently learning Japanese
-- 🤔 My blog 👉 https://blog.tlcsdm.com 
+- 🤔 My blog 👉 https://intro.tlcsdm.com 
 - 📫 How to reach me: liang.tang.cx@gmail.com
 - ⏰ Updated on ${formatDate()}
 
